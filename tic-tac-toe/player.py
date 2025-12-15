@@ -33,3 +33,4 @@ class HumanPlayer(Player):
             except ValueError:
                 print('invalid square, try again')
         return val
+    
